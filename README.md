@@ -1,3 +1,3 @@
-# Security, Privacy, and Reverse Enginnering (SPIRE) Lab
+# Security, Privacy, and Reverse Engineering (SPIRE) Lab
 # George Mason University, Fairfax, VA
 
